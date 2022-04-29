@@ -1,0 +1,23 @@
+{
+  "name": "reprograma-projeto1",
+  "version": "1.0.0",
+  "description": "Contém projeto integrado da semana 5 da Reprograma (um sistema que gerencia livros).",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KessyCosta/Reprograma-Projeto1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KessyCosta/Reprograma-Projeto1/issues"
+  },
+  "homepage": "https://github.com/KessyCosta/Reprograma-Projeto1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
