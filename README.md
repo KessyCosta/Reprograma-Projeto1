@@ -1,7 +1,9 @@
 # **{Reprograma}** Projeto Guiado ✨🚀
 ## **Sistema de gerenciamento de livros.** 📕📖📚
 -------
-
+<div>
+<img src="https://github.com/KessyCosta/Reprograma-Projeto1/blob/main/biblioteca.jpg" width="400px" />
+</div>
 
 ### _O que aprendi nas últimas 5 semanas em aula:_ 👩🏻‍🚀  
 ---
@@ -52,6 +54,15 @@ Foi realizado um projeto de gerenciamento de livros em que se pode:
 
 E um sistema de gerenciamento de livros surgiu!!!
 
+<div >
+<img src="https://www.garotasgeeks.com/wp-content/uploads/2016/08/gif-comemorando.gif" width="400px" />
+</div>
 
+E no fim eu tô morta porém, feliz, como esse gatinho!! 
 
-Bye!
+<div>
+<img src="https://github.com/KessyCosta/Reprograma-Projeto1/blob/main/Cat.jpg" width="400px" />
+</div>
+
+**Bye!**
+
